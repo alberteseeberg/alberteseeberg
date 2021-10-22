@@ -12,6 +12,6 @@
 <h5 align="left">Feel free to connect with me</h5>
 <p align="left">
 <a href="https://twitter.com/alberteseeberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alberteseeberg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alberte seeberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alberte seeberg" height="30" width="40" /></a>
+<a href="https://dk.linkedin.com/in/alberte-seeberg-044404191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alberte seeberg" height="30" width="40" /></a>
 </p>
 
