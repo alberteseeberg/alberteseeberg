@@ -3,12 +3,13 @@
 
 - I have a background in **Cognitive Science** 
 - I’m currently working on my PhD project on **rhythm and groove perception in cochlear implant users** :musical_note:
-- Other research interests include *multisensory perception*, **neurogastronomy**, **machine learning**, **clinical decision support systems**.
+- Other research interests include *multisensory perception*, *neurogastronomy*, *machine learning*, *clinical decision support systems*.
+- I primarily use *R* and *Python*
 
 ![Alberte's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberteseeberg&show_icons=true)
 
 
-<h3 align="left">Feel free to connect with me:</h3>
+<h5 align="left">Feel free to connect with me:</h5>
 <p align="left">
 <a href="https://dk.linkedin.com/in/alberte-seeberg-044404191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alberteseeberg" height="30" width="40" /></a>
 </p>
