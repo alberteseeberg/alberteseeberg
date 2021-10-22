@@ -1,4 +1,4 @@
-<h1 align="center">**Hi** 👋, I'm Alberte</h1>
+<h1 align="center">Hi 👋, I'm Alberte</h1>
 <h3 align="center">I am a PhD student at Center for Music in the Brain, Aarhus, DK.</h3>
 
 - I’m currently working on **rhythm and groove perception in cochlear implant users**
