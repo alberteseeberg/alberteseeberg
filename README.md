@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Alberte 👋</h1>
-<h3 align="center">I am a PhD student at Center for Music in the Brain, Aarhus, DK.</h3>
+<h3 align="center">I am a postdoc at Department for Food Science, Copenhagen University, DK.</h3>
 
 - I have a background in **Cognitive Science** 
-- I’m currently working on my PhD project on **rhythm and groove perception in cochlear implant users** :musical_note:
+- I’m currently working on projects related to **culinary creativity** and eating with **digital distractions** 🍥
+- I did my PhD on my PhD project on **rhythm and groove perception in cochlear implant users** :musical_note:
 - Other research interests include *multisensory perception*, *neurogastronomy*, *machine learning*, *clinical decision support systems*, *health tech*
 - I primarily use *R* and *Python*
 
