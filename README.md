@@ -3,7 +3,7 @@
 
 - I have a background in **Cognitive Science** 
 - I’m currently working on projects related to **culinary creativity** and eating with **digital distractions** 🍥
-- I did my PhD on my PhD project on **rhythm and groove perception in cochlear implant users** :musical_note:
+- I did my PhD at Center for Music in the Brain, Aarhus University; PhD project on **rhythm and groove perception in cochlear implant users** :musical_note:
 - Other research interests include *multisensory perception*, *neurogastronomy*, *machine learning*, *clinical decision support systems*, *health tech*
 - I primarily use *R* and *Python*
 
